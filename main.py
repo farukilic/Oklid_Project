@@ -6,6 +6,8 @@ def hypotenuse(x1, y1, x2, y2):
 
 uzunluk = hypotenuse(0,16,8,0)
 print(uzunluk)
+print(31)
+
 
 
 
