@@ -4,8 +4,9 @@ def hypotenuse(x1, y1, x2, y2):
     fark = (fark_x**2 + fark_y**2)**(1/2)
     return fark
 
-uzunluk = hypotenuse(0,12,5,0)
+uzunluk = hypotenuse(0,16,8,0)
 print(uzunluk)
 
 
-print(31)
+
+
